@@ -1,3 +1,2 @@
 This is program 1
 This is second line
-This is thrid line, second commit
